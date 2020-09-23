@@ -1,0 +1,16 @@
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\bin\Debug\netcoreapp3.1\RabbitMQ Test.exe
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\obj\Debug\netcoreapp3.1\RabbitMQ Test.csprojAssemblyReference.cache
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\obj\Debug\netcoreapp3.1\RabbitMQ Test.AssemblyInfoInputs.cache
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\obj\Debug\netcoreapp3.1\RabbitMQ Test.AssemblyInfo.cs
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\bin\Debug\netcoreapp3.1\RabbitMQ Test.deps.json
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\bin\Debug\netcoreapp3.1\RabbitMQ Test.runtimeconfig.json
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\bin\Debug\netcoreapp3.1\RabbitMQ Test.runtimeconfig.dev.json
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\bin\Debug\netcoreapp3.1\RabbitMQ Test.dll
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\bin\Debug\netcoreapp3.1\RabbitMQ Test.pdb
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\obj\Debug\netcoreapp3.1\RabbitMQ Test.csproj.CoreCompileInputs.cache
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\obj\Debug\netcoreapp3.1\RabbitMQ Test.csproj.CopyComplete
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\obj\Debug\netcoreapp3.1\RabbitMQ Test.dll
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\obj\Debug\netcoreapp3.1\RabbitMQ Test.pdb
+C:\DEV\RabbitMQ\RabbitMQ-Tutorial\RabbitMQ Test\RabbitMQ Test\obj\Debug\netcoreapp3.1\RabbitMQ Test.genruntimeconfig.cache
