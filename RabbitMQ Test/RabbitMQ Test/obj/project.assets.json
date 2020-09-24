@@ -109,19 +109,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jpcab\\.nuget\\packages\\": {}
+    "C:\\Users\\joao.de.melo.cabana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\RabbitMQ\\RabbitMQ-Tutorial\\RabbitMQ Test\\RabbitMQ Test\\RabbitMQ Test.csproj",
+      "projectUniqueName": "C:\\DEV\\RabbitMQ-EntityFramework\\RabbitMQ-Tutorial\\RabbitMQ Test\\RabbitMQ Test\\RabbitMQ Test.csproj",
       "projectName": "RabbitMQ Test",
-      "projectPath": "C:\\DEV\\RabbitMQ\\RabbitMQ-Tutorial\\RabbitMQ Test\\RabbitMQ Test\\RabbitMQ Test.csproj",
-      "packagesPath": "C:\\Users\\jpcab\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\RabbitMQ\\RabbitMQ-Tutorial\\RabbitMQ Test\\RabbitMQ Test\\obj\\",
+      "projectPath": "C:\\DEV\\RabbitMQ-EntityFramework\\RabbitMQ-Tutorial\\RabbitMQ Test\\RabbitMQ Test\\RabbitMQ Test.csproj",
+      "packagesPath": "C:\\Users\\joao.de.melo.cabana\\.nuget\\packages\\",
+      "outputPath": "C:\\DEV\\RabbitMQ-EntityFramework\\RabbitMQ-Tutorial\\RabbitMQ Test\\RabbitMQ Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jpcab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joao.de.melo.cabana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -165,7 +165,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

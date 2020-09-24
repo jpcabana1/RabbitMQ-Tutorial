@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "iTYmt2Fm0sAKrUbabdxne9zVPq/yb/UmnbXRDCOYFSPSNEVpGgA6ogYGS6+Ft5iIulpmz0OkqjWep/aSgburaw==",
+  "dgSpecHash": "sYWBs5cqO36Y+3TZ9d42TKDG5FD1E+55qAEwcJqnYhkn+UTLlKGjcYo5ROABGuVlfGGJfzJUOhZJpdpg+aBWYw==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\RabbitMQ\\RabbitMQ-Tutorial\\RabbitMQ Test\\RabbitMQ Test\\RabbitMQ Test.csproj",
+  "projectFilePath": "C:\\DEV\\RabbitMQ-EntityFramework\\RabbitMQ-Tutorial\\RabbitMQ Test\\RabbitMQ Test\\RabbitMQ Test.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jpcab\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
-    "C:\\Users\\jpcab\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\jpcab\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "C:\\Users\\joao.de.melo.cabana\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\joao.de.melo.cabana\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\joao.de.melo.cabana\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

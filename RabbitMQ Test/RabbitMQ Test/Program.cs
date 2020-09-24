@@ -45,7 +45,7 @@ namespace RabbitMQ_Test
             byte[] messageBuffer = Encoding.Default.GetBytes("This is my message");
 
             //Send message
-            //model.BasicPublish(ExchangeName, "cars", properties, messageBuffer);
+            model.BasicPublish(ExchangeName, "cars", properties, messageBuffer);
 
       
             Console.WriteLine("message sent");
