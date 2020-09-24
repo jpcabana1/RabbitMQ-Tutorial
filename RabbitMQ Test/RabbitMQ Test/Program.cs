@@ -51,7 +51,6 @@ namespace RabbitMQ_Test
             Console.WriteLine("message sent");
             Console.ReadLine();
 
-
         }
     }
 }
